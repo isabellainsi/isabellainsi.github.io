@@ -9,4 +9,6 @@ Hello! My name is Isabella Insingo. I am an undergraduate student at [Lehigh Uni
 
 
 
+### Lehigh University's Office of Institutional Research and Strategic Analytics conducted its annual Senior Survey. It asked many questions realting to overal satisfaction, gains, and sense of belonging. I compiled a few of the answers that stood out to me in this infographic. Here is the link to the original survey questions and results: https://oirsa.lehigh.edu/senior-survey-dashboard
+
 <img src="https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Senior%20Satisfaction.png?raw=true" alt="Senior Satisfaction' From" width="400"/>
