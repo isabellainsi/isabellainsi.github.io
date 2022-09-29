@@ -13,5 +13,5 @@ Hello! My name is Isabella Insingo. I am an undergraduate student at [Lehigh Uni
 
 <img src="https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Senior%20Satisfaction.png?raw=true" alt="Senior Satisfaction' From" width="400"/>
 
-####A timeline of the Lehigh University and Lafayette College football rivalry. 
+#### A timeline of the Lehigh University and Lafayette College football rivalry. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dKtPp8PCr_VAjBxh3FlTxntyu_eWgLOCQBLsqJ2REu4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
