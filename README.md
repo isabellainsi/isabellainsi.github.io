@@ -17,4 +17,5 @@ Hello! My name is Isabella Insingo. I am an undergraduate student at [Lehigh Uni
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dKtPp8PCr_VAjBxh3FlTxntyu_eWgLOCQBLsqJ2REu4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 #### A Timeline of 1980s Women's Fashion
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rbVsS3H9CSAC1tnQxjGKiIRLvMVyChDsjELNpZF4k9w&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rbVsS3H9CSAC1tnQxjGKiIRLvMVyChDsjELNpZF4k9w&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
