@@ -19,3 +19,5 @@ Hello! My name is Isabella Insingo. I am an undergraduate student at [Lehigh Uni
 #### A Timeline of 1980s Women's Fashion
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rbVsS3H9CSAC1tnQxjGKiIRLvMVyChDsjELNpZF4k9w&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+A graph of the three most populous countries, India, China, and the USA. 
+![Chart](https://github.com/isabellainsi/isabellainsi.github.io/blob/main/unnamed.png?raw=true)
