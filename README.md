@@ -21,3 +21,6 @@ Hello! My name is Isabella Insingo. I am an undergraduate student at [Lehigh Uni
 
 A graph of the three most populous countries, India, China, and the USA. 
 ![Chart](https://github.com/isabellainsi/isabellainsi.github.io/blob/main/unnamed.png?raw=true)
+
+A graph of the geographic origin of Lehigh University's incoming class.
+![Chart](https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Undergraduate_Enrollment__Undergraduate_Enrollment_chartbuilder.png?raw=true)
