@@ -28,3 +28,5 @@ A graph of the geographic origin of Lehigh University's incoming class.
 A graph of self-reported lifesatisfaction in the top 10 countries. With this exercise, I found that you may have to edit data sets to fit Chartbuilder.
 ![Chart](https://github.com/isabellainsi/isabellainsi.github.io/blob/main/E_Total_population_in_billions_(Gapminder,_HYDE_&_UN)_GDP_per_capita,_PPP_(constant_2011_international_$_in_thousands)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder%20(1).png?raw=true)
 
+A graph of the most expensive buildings ever built, along with the year they were built in. This graph was made for a data journalism class project. It's purpose is to show a time series of the construction of expensive buildings across the world. Due to Chartbuilder's layout, the names and locations of the buildings were not included. I received the data from [Wikipedia](https://en.wikipedia.org/wiki/List_of_most_expensive_buildings).
+![Chart](https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Cost_of_the_most_expensive_buildings_(in_billions)_Cost_(in_billions)_chartbuilder.png?raw=true)
