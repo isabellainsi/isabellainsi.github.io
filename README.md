@@ -31,4 +31,5 @@ A graph of self-reported lifesatisfaction in the top 10 countries. With this exe
 A graph of the most expensive buildings ever built, along with the year they were built in. This graph was made for a data journalism class project. It's purpose is to show a time series of the construction of expensive buildings across the world. Due to Chartbuilder's layout, the names and locations of the buildings were not included. I received the data from [Wikipedia](https://en.wikipedia.org/wiki/List_of_most_expensive_buildings).
 ![Chart](https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Cost_of_the_most_expensive_buildings_(in_billions)_Cost_(in_billions)_chartbuilder.png?raw=true)
 
-![Map]<iframe src="https://www.google.com/maps/d/u/2/embed?mid=15zzs41Mpi-7-OmOUzSY0GxEyn8QAULM&ehbc=2E312F" width="640" height="480"></iframe>
+!Wired's Top 20 Cycling Cities
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=15zzs41Mpi-7-OmOUzSY0GxEyn8QAULM&ehbc=2E312F" width="640" height="480"></iframe>
