@@ -33,3 +33,8 @@ Hello! My name is Isabella Insingo. I am an undergraduate student at [Lehigh Uni
 
 ### Wired's Top 20 Cycling Cities
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=15zzs41Mpi-7-OmOUzSY0GxEyn8QAULM&ehbc=2E312F" width="640" height="480"></iframe>
+
+### USA Today's Top 10 Ice Cream Parlors
+This map was made using Google's My Maps for a data journalism class project. The data was taken from [USA Today](https://www.usatoday.com/story/travel/destinations/2013/05/18/best-ice-cream-parlors-in-the-world/2194411/). All images used are curtesy of Trip Advisor. 
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1U9va6JN-FtxDeczCMO2WcYj1cMoYj5A&ehbc=2E312F" width="640" height="480"></iframe>
+
