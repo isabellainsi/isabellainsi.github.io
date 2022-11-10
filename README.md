@@ -8,7 +8,6 @@ Hello! My name is Isabella Insingo. I am an undergraduate student at [Lehigh Uni
 <img src="https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Where%20in%20the%20world%20is%20Class%20of%20'23%20From.png?raw=true" alt="Where in the World is Class of 23' From" width="400"/>
 
 
-
 ### Lehigh University's Office of Institutional Research and Strategic Analytics conducted its annual Senior Survey. It asked many questions realting to overal satisfaction, gains, and sense of belonging. I compiled a few of the answers that stood out to me in this infographic. Here is the link to the original survey questions and results: https://oirsa.lehigh.edu/senior-survey-dashboard
 
 <img src="https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Senior%20Satisfaction.png?raw=true" alt="Senior Satisfaction' From" width="400"/>
@@ -17,12 +16,14 @@ Hello! My name is Isabella Insingo. I am an undergraduate student at [Lehigh Uni
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dKtPp8PCr_VAjBxh3FlTxntyu_eWgLOCQBLsqJ2REu4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ### A Timeline of 1980s Women's Fashion
+This timeline was created with Knight Lab's [timeline maker](https://timeline.knightlab.com/index.html#make). I chose to chronologically represent women's 80s fashion because I find this decade to be colorful, interesting, and visually appealing. The timeline allows viewers to scroll through, picking up different facts along with images.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rbVsS3H9CSAC1tnQxjGKiIRLvMVyChDsjELNpZF4k9w&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ### A graph of the three most populous countries, India, China, and the USA. 
 ![Chart](https://github.com/isabellainsi/isabellainsi.github.io/blob/main/unnamed.png?raw=true)
 
 ### A graph of the geographic origin of Lehigh University's incoming class.
+This graph was created for a data journalism class project. I chose this topic because I wanted to visually represent the percentage of Lehigh students from different places. 
 ![Chart](https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Undergraduate_Enrollment__Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
 ### A graph of self-reported lifesatisfaction in the top 10 countries. With this exercise, I found that you may have to edit data sets to fit Chartbuilder.
@@ -35,7 +36,7 @@ Hello! My name is Isabella Insingo. I am an undergraduate student at [Lehigh Uni
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=15zzs41Mpi-7-OmOUzSY0GxEyn8QAULM&ehbc=2E312F" width="640" height="480"></iframe>
 
 ### USA Today's Top 10 Ice Cream Parlors
-This map was made using Google's My Maps for a data journalism class project. The data was taken from [USA Today](https://www.usatoday.com/story/travel/destinations/2013/05/18/best-ice-cream-parlors-in-the-world/2194411/). All images used are curtesy of Trip Advisor. 
+This map was made using Google's My Maps for a data journalism class project. It shows the best ice cream parlors in the world, according to [USA Today](https://www.usatoday.com/story/travel/destinations/2013/05/18/best-ice-cream-parlors-in-the-world/2194411/). All images used are curtesy of Trip Advisor. 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1U9va6JN-FtxDeczCMO2WcYj1cMoYj5A&ehbc=2E312F" width="640" height="480"></iframe>
 
 ### Tableau Party Preference Graphs
