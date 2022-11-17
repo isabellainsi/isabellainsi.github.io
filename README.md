@@ -5,7 +5,7 @@
 ### Introduction
 Hello! My name is Isabella Insingo. I am an undergraduate student at [Lehigh University](https://www1.lehigh.edu/) majoring in Journalism and Global Studies. 
 
-https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Screen%20Shot%202022-11-17%20at%2011.37.21%20AM.png?raw=true
+![comic strip](https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Screen%20Shot%202022-11-17%20at%2011.37.21%20AM.png?raw=true)
 
 This comic strip with the [Pixton App](https://app.pixton.com/#/).
 
