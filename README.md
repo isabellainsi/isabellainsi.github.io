@@ -7,6 +7,9 @@ Hello! My name is Isabella Insingo. I am an undergraduate student at [Lehigh Uni
 
 <img src="https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Where%20in%20the%20world%20is%20Class%20of%20'23%20From.png?raw=true" alt="Where in the World is Class of 23' From" width="400"/>
 
+<img src="https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Screen%20Shot%202022-11-17%20at%2011.37.21%20AM.png?raw=true" From" width="400"/>
+
+This comic strip with the [Pixton App](https://app.pixton.com/#/).
 
 ### Senior Satisfaction Survey
 Lehigh University's Office of Institutional Research and Strategic Analytics conducted its annual Senior Survey. It asked many questions realting to overal satisfaction, gains, and sense of belonging. I compiled a few of the answers that stood out to me in this infographic. Here is the link to the original survey questions and results: https://oirsa.lehigh.edu/senior-survey-dashboard
