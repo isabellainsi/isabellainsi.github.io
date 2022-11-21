@@ -7,7 +7,7 @@ Hello! My name is Isabella Insingo. I am an undergraduate student at [Lehigh Uni
 
 ![comic strip](https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Screen%20Shot%202022-11-17%20at%2011.37.21%20AM.png?raw=true)
 
-This comic strip with the [Pixton App](https://app.pixton.com/#/).
+This comic strip was made with [Pixton App](https://app.pixton.com/#/) for a data journalism class project. 
 
 <img src="https://github.com/isabellainsi/isabellainsi.github.io/blob/main/Where%20in%20the%20world%20is%20Class%20of%20'23%20From.png?raw=true" alt="Where in the World is Class of 23' From" width="400"/>
 
